@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codesadroid&label=Profile%20views&color=00ff00&style=flat" alt="codesadroid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codesadroid&label=Profile%20views&color=d66fdf&style=flat" alt="codesadroid" /> </p>
  <p align="center">
   <img id="github" src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRldXFpYW9hdnUxd2dvOGx0cXF2MHAwYTVlZHdzMmR2ZjFwYmhwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b17osqXImEFJKM/giphy.gif width="600">
  
